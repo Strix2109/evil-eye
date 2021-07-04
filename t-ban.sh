@@ -2,8 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by Sutariya Parixit (8h4i)
-# _____Do Not Copy Or Modify_____
+# Banner by Sant kr.
 #
 #
 clear
@@ -14,7 +13,7 @@ red='\e[1;31m'
 yellow='\e[1;33m'
 echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
 echo " "
-echo -e $yellow "\e[1m                         -Sutariya Parixit "
+echo -e $yellow "\e[1m                         -Sant kr(Admin of Strix Cyber Community) "
 echo " "
 echo " "
 echo " "
