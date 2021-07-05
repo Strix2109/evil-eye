@@ -2,12 +2,15 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
-2) cd Termux-Banner
-3) chmod +x requirement.sh
-4) chmod +x t-ban.sh
-5) bash requirement.sh
-6) bash t-ban.sh
+1) apt update
+2) apt upgrade -y
+3) apt install git -y
+4) git clone https://github.com/Strix2109/evil-eye
+5) cd evil-eye
+6) chmod +x requirement.sh
+7) chmod +x banner.sh
+8) bash requirement.sh
+9) bash banner.sh
 
 
 Uninstallation Step : (Remove Logo From Termux)
