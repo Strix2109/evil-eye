@@ -1,4 +1,3 @@
-
 figlet -f big Termux Banner | lolcat
 cyan='\e[0;36m'
 lightgreen='\e[1;32m'
@@ -9,6 +8,10 @@ echo " "
 echo -e $yellow "\e[1m                         -Sant kr.(Admin of Strix Cyber Community) "
 echo " "
 echo -e $red "\e[1m                       Subscribe us on YT- STRIX.D (Search on YT) "
+echo " "
+echo -e $lightgreen "\e[1m                       Instagram- @strix_21 "
+echo " "
+echo -e $lightgreen "\e[1m                       Github- github.com/Strix2109 "
 echo " "
 echo -e "\e[1m\e[33m\nWhat is Your \e[31mBanner \e[33mName\e[32m :\n\n"
 read varbanner
